@@ -45,6 +45,23 @@ Thumbs.db
 *.docx
 *.doc
 
+# Assignment specific files (ignore these)
+A2 Report-a4.*
+sli776.pdf
+Folder.DotSettings.user
+
+# Duplicate files in root directory (keep organized versions in subdirectories)
+A2.csproj
+A2.sln
+ProgramV001.cs
+ChessClient.html
+chess.css
+chess.js
+
+# Compressed archives
+client-sli776.zip
+server-sli776.zip
+
 # Node modules (if any frontend dependencies)
 node_modules/
 npm-debug.log*
